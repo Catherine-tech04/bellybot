@@ -1,0 +1,6 @@
+RAW_recipes.csv
+*.csv
+*.xlsx
+recipe_embeddings.npy
+user_profile.npy
+user_preferences.json
