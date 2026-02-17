@@ -1,6 +1,14 @@
-RAW_recipes.csv
+# Ignore dataset files
 *.csv
-*.xlsx
-recipe_embeddings.npy
-user_profile.npy
-user_preferences.json
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
